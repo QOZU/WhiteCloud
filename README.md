@@ -1,0 +1,2 @@
+# WhiteCloud
+AuroraArchitected WhiteCloud Fusion Fabric for MultiCloudOrchestration and ScalabilityOptimized ServerlessComputeEngine with FaultTolerant architecture providing enterprise-grade WhiteCloud solutions
